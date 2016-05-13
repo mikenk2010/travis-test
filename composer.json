@@ -1,0 +1,11 @@
+{
+	"required":{
+		"php" : ">=5.3"
+	},
+	"required-dev":{
+		"phpunit/phpunit":">=3.6"
+	},
+	"autoload":{
+		"psr-0" :{"JomWeb" :"src/"}
+	}
+}
